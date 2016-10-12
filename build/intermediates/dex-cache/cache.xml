@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liyuanqing/Downloads/Sensors/OrientationSensorSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e34bb80d0fafb07965a60f79726f857ba2d12585">
+        <dex dex="/Users/liyuanqing/Downloads/Sensors/OrientationSensorSample/app/build/intermediates/pre-dexed/debug/instant-run_df3eeb56c8e05f042564281b4c2943b5aa0cb6ac.jar" />
+    </item>
+    <item
+        jar="/Users/liyuanqing/Downloads/Sensors/OrientationSensorSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db9d92779a172a9e22b4e1dbd18475a9bb40cb9c">
+        <dex dex="/Users/liyuanqing/Downloads/Sensors/OrientationSensorSample/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_3e0607f0cdf1cbac08e36914df64b32ca8ebadce.jar" />
+    </item>
+
+</items>
